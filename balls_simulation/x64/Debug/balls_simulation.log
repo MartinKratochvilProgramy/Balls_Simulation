@@ -1,1 +1,11 @@
-﻿  balls_simulation.vcxproj -> C:\Users\martv\cpp\balls_simulation\x64\Debug\balls_simulation.exe
+﻿  main.cpp
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\balls_simulation\balls_simulation\src\main.cpp(16,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\balls_simulation\balls_simulation\src\main.cpp(20,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\balls_simulation\balls_simulation\src\main.cpp(21,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\balls_simulation\balls_simulation\src\main.cpp(57,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\balls_simulation\balls_simulation\src\main.cpp(58,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\balls_simulation\balls_simulation\src\main.cpp(81,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\balls_simulation\balls_simulation\src\main.cpp(86,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\balls_simulation\balls_simulation\src\main.cpp(105,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  LINK : C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\balls_simulation\x64\Debug\balls_simulation.exe not found or not built by the last incremental link; performing full link
+  balls_simulation.vcxproj -> C:\Users\martin.kratochvil\Desktop\ostatni\c_programming\cpp\balls_simulation\x64\Debug\balls_simulation.exe
