@@ -6,4 +6,5 @@ Program was written in c++ using Microsoft Visual Studio, you can load it the VS
 
 ![image](https://user-images.githubusercontent.com/94861828/149720357-87ec17af-d88c-40d1-bf49-7aa9eb7e5227.png)
 
-![image](https://user-images.githubusercontent.com/94861828/148726147-7fbe487b-78b8-4330-85bf-bda4ac619369.png)
+![image](https://user-images.githubusercontent.com/94861828/149720570-3dc7c18b-7120-4dcf-9a03-ef187b7becd4.png)
+
